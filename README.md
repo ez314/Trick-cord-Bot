@@ -19,7 +19,7 @@ Edit `config.json` with your configuration.
 ### Starting the bot
 Assuming `python` defaults to Python 3:
 ```sh
-python -m pip install requirements.txt
+python -m pip install -r requirements.txt
 python bot.py
 ```
 
