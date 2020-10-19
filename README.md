@@ -1,7 +1,7 @@
 # Trick-cord-Bot
 Automating Trick'cord Treat on Discord
 
-## What is this Trick'cord Treat?
+## What is Trick'cord Treat?
 [Trick'cord Treat](https://blog.discord.com/discord-saves-halloween-7816b934c0b1?gi=6c70954035c) is a bot developed by Discord that spawns tricks and treats in servers based on activities. Players must type `h!trick` or `h!treat` based on the contents of the spawn message.  
 
 ## What does Trick-cord Bot do?
